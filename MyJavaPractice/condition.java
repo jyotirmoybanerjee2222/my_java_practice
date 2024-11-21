@@ -1,4 +1,4 @@
-package MyJavaPractice;
+ package MyJavaPractice;
 
 public class condition {
 
